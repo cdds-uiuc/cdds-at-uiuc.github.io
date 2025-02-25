@@ -7,32 +7,32 @@ bodyClass: page-about
 
 ### Our groups' most recent publications! CDDS members are bolded.
 
----
-
 ## Submitted
 
-Bloch-Johnson, J., Rugenstein, M.A.A., Alessi, M.J., **Proistosescu, C.**, Zhao, M., Zhang, B., Williams, A.I.L., Gregory, J.M., Cole, J., Dong, Y., Duffy, M.L., Kang, S.M., Zhou, C.: The Green’s Function Model Intercomparison Project (GFMIP) Protocol _Submited, JAMES_.
+**Hanke, T., Proistosescu, C.**: ENSO as an Emergent Constraint on the Pattern Effect. Nature Geosciences, in review.
 
-**Bauer, A. M.**, Vargas Zeppetello, L. R., **Proistosescu, C.** Soil moisture modulation of midlatitude heat waves. _In review, Nature Geoscience_. ([preprint](https://doi.org/10.31223/X59H3H))
+**Bauer, A.M.**, Zeppetello, L.R., **Proistosescu, C.**: On the role of Soil Moisture in Midlatitude Temperature Extremes. Journal of Climate, in review.
 
-Cleveland-Stout, R.,**Proistosescu, C.**, Roe, G.  Fingerprinting low-frequency Holocene temperature variability in forced and unforced climate models. _In review, Journal of Climate_
+Dvorak, M., Armour K.C., Feng, R., Cooper V.T., Zhu, J., Burls, N., **Proistosescu C.**: Mid-Pliocene climate forcing, sea-surface temperature patterns, and implications for modern-day climate sensitivity. Journal of Climate, in review.
 
----
+**Stout R.C., Proistosescu, C.**, Roe G.H.: Spatial Coherence as a Key Metric for Interpreting Marine Records of Holocene Temperature Variability. Paleoceanography and Paleoclimate, in review.
 
 ## Published
+**Kircher K., Proistosescu C.**, Sriver, R. (2025); Analytical Model for the Higher Order Moments of Midlatitude Atmospheric Temperature Distributions. Geophysical Research Letters, 52 (3), e2024GL111626. [https://doi.org/10.1029/2024GL111626](https://doi.org/10.1029/2024GL111626)
 
-**Bauer, A. M.**, **Proistosescu, C.**, Wagner, G. Carbon Dioxide as a Risky Asset. _Climatic Change (forthcoming)_, 2024. [_CESifo Working Paper version_](https://www.cesifo.org/en/publications/2023/working-paper/carbon-dioxide-risky-asset) [_CEEP Working Paper version_](https://ceep.columbia.edu/content/working-papers)
+**Lin, Y. J.**, Cesana, G. V., **Proistosescu, C**., Zelinka, M. D., & Armour, K. C. (2025). The relative importance of forced and unforced temperature patterns in driving the time variation of low-cloud feedback. Journal of Climate, 38(2), [https://doi.org/10.1175/JCLI-D-24-0014.1](https://doi.org/10.1175/JCLI-D-24-0014.1)
 
-Wills, R.C., Dong, Y., **Proistosecu, C.**, Armour, K.C. and Battisti, D.S., 2022. Systematic Climate Model Biases in the Large‐Scale Patterns of Recent Sea‐Surface Temperature and Sea‐Level Pressure Change. _Geophysical Research Letters_, 49(17), [https://doi.org/10.1029/2022GL100011](https://doi.org/10.1029/2022GL100011)
+**McDonnell, A., Bauer, A. M., &Proistosescu, C.** (2024). To what extent does discounting ‘hot’ climate models improve the predictive skill of climate model ensembles? Earth's Future, 12,e2024EF004844. [https://doi.org/10.1029/2024EF004844](https://doi.org/10.1029/2024EF004844)
 
-Huybers, P., Liautaud, P., **Proistosescu, C.** , Boulahanis, B.,  Carbotte, S. M., Katz, R. F., Langmuir, C. Influence of late Pleistocene sea-level variations on mid-ocean ridge spacing in faulting simulations and a global analysis of bathymetry. _Proceedings of the National Academy of Sciences_, 119(28), 2022. [https://doi.org/10.1073/pnas.2204761119](https://doi.org/10.1073/pnas.2204761119)
+**Bauer, A. M.**, **Proistosescu, C.**, Wagner, G. Carbon Dioxide as a Risky Asset (2024): Climatic Change 177:72. [https://doi.org/10.1007/s10584-024-03724-3](https://doi.org/10.1007/s10584-024-03724-3)
 
-Dvorak, M. T., Armour, K. C., Frierson, D. M. W., **Proistosescu, C.**, Smith, C. J., Baker, M. B. Estimating the timing of geophysical commitment
-to 1.5 and 2.0 &#8451; of global warming. _Nature Climate Change_, 12, 2022. [https://doi.org/10.1038/s41558-022-01372-y](https://doi.org/10.1038/s41558-022-01372-y)
+Armour, K.C., & **Proistosecu C.**, Dong Y., Hahn L.C., Blanchard-Wrigglesworth E., Pauling A.G., Wills R.C.J, Andrews T., Stuecker M. F., Po-Chedley S. (2024): Sea-Surface temperature pattern effects have slowed global warming and biased warming-based constraints on climate sensitivity. PNAS 12, (121). [https://doi.org/10.1073/pnas.2312093121](https://doi.org/10.1073/pnas.2312093121)
 
-Dong, Y., Armour, K. C., **Proistosescu, C.**, Andrews, T.,  Battisti, T. S., Forster, P. M.,  Paynter, D., Smith, C. J., Shiogama, H. Biased estimates of Equilibrium Climate Sensitivity and Transient Climate Response derived from historical CMIP6 simulations. _Geophysical Research Letters_, 48(24), 2021. [https://doi.org/10.1029/2021GL095778](https://doi.org/10.1029/2021GL095778)
+*Bloch-Johnson, J., Rugenstein, M.A.A., Alessi, M.J., **Proistosescu, C.**, Zhao, M., Zhang, B., Williams, A.I.L., Gregory, J.M., Cole, J., Dong, Y., Duffy, M.L., Kang, S.M., Zhou, C. (2024): The Green’s Function Model Intercomparison Project (GFMIP) Protocol,  JAMES, 2 (16). [https://doi.org/10.1029/2023MS003700](https://doi.org/10.1029/2023MS003700)
 
-**Albright, A. L.**, **Proistosescu, C.**, Huybers, P. Origins of a relatively tight lower bound on anthropogenic aerosol radiative forcing from Bayesian analysis of historical observations. _Journal of Climate_, 34(21), 2021. [https://doi.org/10.1175/JCLI-D-21-0167.1](https://doi.org/10.1175/JCLI-D-21-0167.1)
+Cooper, VT; Armour, KC; Hakim, GJ; Tierney, J. E.; Osman M. B.; **Proistosescu, C.**; Dong, Y.; Burls, N. J.; Andrews, T.; Amrhein, D. E., Zhu J., Dong, W., Ming Y., **Chmielowiec P. (2024)**: Last Glacial Maximum pattern effects reduce climate sensitivity estimates. Science Advances 16 (10). [https://doi.org/10.1126/sciadv.adk9461](https://doi.org/10.1126/sciadv.adk9461)
+
+**Stout, R.C.**, **Proistosescu, C.** , Roe. G., (2024): Fingerprinting low-frequency Holocene temperature  variability in forced and unforced climate models. Journal of Climate 36 (20) [https://doi.org/10.1175/JCLI-D-22-0810](https://doi.org/10.1175/JCLI-D-22-0810)
 
 Wills, R. C. J., Armour, K. C., Battisti, D. S., **Proistosescu, C.**, Parsons, L. A. Slow Modes of Global Temperature Variability and Their Impact on Climate Sensitivity Estimates. _Journal of Climate_, 34(21), 2021. [https://doi.org/10.1175/JCLI-D-20-1013.1](https://doi.org/10.1175/JCLI-D-20-1013.1)
 
